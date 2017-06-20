@@ -1,0 +1,19 @@
+{
+  "name": "check-hermione",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tocher/check-hermione.git"
+  },
+  "author": "Tocher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tocher/check-hermione/issues"
+  },
+  "homepage": "https://github.com/Tocher/check-hermione#readme"
+}
